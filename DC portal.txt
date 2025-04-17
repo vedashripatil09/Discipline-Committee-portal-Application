@@ -1,0 +1,8 @@
+Discipline Committee Application (Frontend)
+
+Developed by Vedashri Patil
+Role: Frontend Developer
+Features:
+- Search functionality
+- Responsive UI
+- Clean layout
